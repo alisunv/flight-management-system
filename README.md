@@ -1,24 +1,43 @@
 # Flight Management System
 
-An enterprise web application designed to support airline operations and flight management processes.
+An enterprise web application for managing airline operations, flight schedules, and crew resources.
 
 ## Overview
 
-This project brings together several operational modules in one integrated platform, helping teams manage flight schedules, monitor operations, coordinate crews, and handle aviation-related documentation.
+This project is designed to bring essential airline operational processes into one integrated management platform.
 
-The system is designed around real operational workflows and practical business requirements.
+It covers flight planning, operational monitoring, crew management, scheduling, and aviation document management.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Flight Management
+![Flight Management](screenshots/flight-management.png)
+
+### Crew Management
+![Crew Management](screenshots/crew-management.png)
+
+### Crew Scheduling
+![Crew Scheduling](screenshots/crew-scheduling.png)
+
+### Flight Scheduling
+![Flight Scheduling](screenshots/flight-scheduling.png)
 
 ## Main Modules
 
-- **Flight Scheduling:** Flight planning and schedule management.
-- **Flight Monitoring:** Monitoring flight operations and status.
-- **Crew Management:** Crew information and resource management.
-- **Crew Scheduling:** Crew assignment and scheduling.
-- **Slot Management:** Flight slot management.
-- **Delay Management:** Delay reporting and delay code management.
-- **SSIM Support:** Flight schedule data handling.
-- **EFB / EFF:** Electronic flight documentation and operational support.
-- **Aviation Document Management:** Managing aviation documents and related resources.
+- Flight Scheduling
+- Flight Monitoring
+- Crew Management
+- Crew Scheduling
+- Slot Management
+- Delay Code Management
+- Delay Reporting
+- SSIM Support
+- Electronic Flight Bag (EFB)
+- Electronic Flight Folder (EFF)
+- Aviation Document Management
 
 ## Technology Stack
 
@@ -30,19 +49,17 @@ The system is designed around real operational workflows and practical business 
 - REST API
 - HTML / CSS
 
-## Development Focus
+## Development Areas
 
-- Business process implementation
-- Database design and management
-- Backend development
+- Enterprise application development
+- Database design
+- Backend architecture
 - API integration
-- Operational workflow management
-- Responsive administrative interfaces
+- Business workflow implementation
+- Responsive user interfaces
 
-## Project Status
+## Project Information
 
-Developed as an integrated flight operations management platform.
+This repository presents the project's capabilities and selected interface screenshots.
 
-## Note
-
-This repository is intended to present the project's architecture, capabilities, and development approach. Proprietary source code and operational data are not included.
+Proprietary source code and real operational data are not included.
